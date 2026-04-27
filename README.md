@@ -28,8 +28,8 @@ Everything is controlled from **one file: `config.js`**.
 ### 1. Change the Recipient
 
 ```javascript
-name: "Irene",                        // Recipient's name
-photo: "./img/irene.jpg",             // Photo in the img/ folder
+name: "kashaf aiman",                        // Recipient's name
+photo: "./img/kashaf.jpg",             // Photo in the img/ folder
 music: "./music/hbd.mpeg",            // Music in the music/ folder
 ```
 
@@ -38,7 +38,7 @@ music: "./music/hbd.mpeg",            // Music in the music/ folder
 ```javascript
 defaultMode: "dark",                   // "dark" or "light"
 colors: {
-  primary: "#f472b6",                  // Main accent (name, highlights)
+  primary: "#f472b6",                  // Main accent (name, Mahnoor)
   accent: "#60a5fa",                   // Secondary accent (buttons)
   dark:  { background: "#0f172a", text: "#f1f5f9" },
   light: { background: "#fafaf9", text: "#1e293b" },
